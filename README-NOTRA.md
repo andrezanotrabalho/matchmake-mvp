@@ -11,6 +11,10 @@
 - Plano de ação com etapas automáticas
 - Navegação por etapas (briefing → cotações → produção)
 - Chat flutuante estilizado (Notra.AI)
+- ## 🔗 Acesse a demo online
+
+▶️ [Clique aqui para ver o projeto no ar](https://matchmake-mvp.vercel.app)
+
 
 ---
 
